@@ -47,11 +47,15 @@
                             <div class="section-tittle mb-35">
                                 <h2>Sobre</h2>
                             </div>
-                            <p class="about-cap-top">Inasfa reprehenderit in voluptate velit esse 
-                            cillum reeut cupidatatfug nulla pariatur.</p>
-                            <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse 
-                                cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas 
-                            occaecat.</p>
+                            <p>Na Altitude360Brasil, acreditamos que cada história merece ser contada de forma única e especial. Somos um empreendimento que está dando seus primeiros voos no mercado de fotografias e filmagens aéreas, movidos por paixão, criatividade e o compromisso de eternizar momentos sob uma perspectiva que só do alto pode-se oferecer.</p>
+                            <p>Sabemos que começar é um desafio, mas também acreditamos que toda grande jornada começa com um passo – ou no nosso caso, um voo. Nosso objetivo é entregar a você imagens que combinam arte e emoção, capturadas com precisão por equipamentos de ponta e guiadas por um olhar dedicado aos detalhes. Seja para eternizar momentos inesquecíveis como casamentos e aniversários, valorizar imóveis, ou destacar aventuras e eventos esportivos, estamos prontos para levar sua visão às alturas. Contratar nossos serviços é mais do que garantir imagens incríveis – é apoiar um sonho que nasceu para trazer beleza e inovação ao seu mundo.</p>
+                            <p>Venha fazer parte da nossa história e permita que a Altitude360Brasil transforme suas memórias em verdadeiras obras de arte!</p>
+
+
+
+
+
+
                             <a href="#" class="btn black-btn">Veja nossos serviços</a>
                         </div>
                     </div>
@@ -182,7 +186,16 @@
             <div class="tailor-offers"></div>
             <!-- left Contents -->
             <div class="tailor-details">
-                <h2>Recent projects</h2>
+            <div class="row justify-content-between">
+                <div class="col-xl-8 col-lg-8 col-md-10">
+                    <div class="about-caption mb-50">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle mb-35">
+                            <h2>Projetos Recentes</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>                
                 <p>Inasfa reprehenderit in voluptate velit esse 
                 cillum reeut cupidatatfug nulla pariatur.</p>
                 <p class="pera-bottom">Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas occaecat.</p>

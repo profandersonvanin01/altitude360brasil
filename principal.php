@@ -68,14 +68,7 @@
                                                 <li><a href="index.php">Inicio</a></li>
                                                 <li><a href="#sobre">Sobre</a></li>
                                                 <li><a href="#servicos">Serviços</a></li>
-                                                <li><a href="#projetos">Projetos</a></li>
-                                                <li><a href="#">Blog</a>
-                                                    <ul class="submenu">
-                                                        <li><a href="blog.php">Blog</a></li>
-                                                        <li><a href="blog_details.php">Blog Details</a></li>
-                                                        <li><a href="elements.php">Element</a></li>
-                                                    </ul>
-                                                </li>
+                                                <li><a href="#projetos">Projetos</a></li>                                               
                                                 <li><a href="#contato">Contato</a></li>
                                                 <!-- Header btn -->
                                                 <li>

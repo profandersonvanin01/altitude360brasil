@@ -42,10 +42,10 @@
                                 <div class="footer-tittle">
                                     <h4>Serviços</h4>
                                     <ul>
-                                        <li><a href="#">Drone Mapping</a></li>
-                                        <li><a href="#"> Real State</a></li>
-                                        <li><a href="#">Commercial</a></li>
-                                        <li><a href="#">Construction</a></li>
+                                        <li><a href="#">Drone Mapeamento</a></li>
+                                        <li><a href="#">Fotos Pessoais</a></li>
+                                        <li><a href="#">Festas e Eventos</a></li>
+                                        <li><a href="#">Documentação de Obras</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -55,7 +55,7 @@
                                 <!-- social -->
                                 <div class="footer-social">
                                     <a href="#"><i class="fab fa-twitter"></i></a>
-                                    <a href="https://bit.ly/sai4ull"><i class="fab fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                 </div>
                             </div>

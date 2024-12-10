@@ -3,25 +3,24 @@
 ?>
     <main>
         <!--? slider Area Start-->
-        <section class="slider-area ">
+        <section class="slider-area" id="inicio">
             <div class="slider-active">
                 <!-- Single Slider -->
                 <div class="single-slider slider-bg1 hero-overly slider-height d-flex align-items-center">
                     <div class="container">
                         <div class="row justify-content-center">
-                            <div class="col-xl-8 col-lg-9 col-md-12">
+                            <div class="col-xl-9 col-lg-9 col-md-12">
                                 <div class="hero__caption text-center">
-                                    <h1 data-animation="bounceIn" data-delay="0.2s">Drone Photography<br> & Videography</h1>
-                                    <p data-animation="fadeInUp" data-delay="0.4s">Duis aute irure dolor inasfa reprehenderit in voluptate 
-                                    velit esse cillum reeut cupidatatfug.</p>
-                                    <a href="#" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Explore services</a>
+                                    <h1 class="fonte_logo" data-animation="bounceIn" data-delay="0.2s">ALTITUDE360BRASIL</h1>
+                                    <p style="color:#f57eb6;" data-animation="fadeInUp" data-delay="0.4s">DO ALTO, CONTAMOS A SUA HISTÓRIA COM ARTE E EMOÇÃO.</p>
+                                    <a href="#" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Veja nossos serviços</a>
                                 </div>
                             </div>
                         </div>
                     </div>          
                 </div>
                 <!-- Single Slider -->
-                <div class="single-slider slider-bg1 hero-overly slider-height d-flex align-items-center">
+                <!-- <div class="single-slider slider-bg1 hero-overly slider-height d-flex align-items-center">
                     <div class="container">
                         <div class="row justify-content-center">
                             <div class="col-xl-8 col-lg-9 col-md-12">
@@ -29,31 +28,31 @@
                                     <h1 data-animation="bounceIn" data-delay="0.2s">Drone Photography<br> & Videography</h1>
                                     <p data-animation="fadeInUp" data-delay="0.4s">Duis aute irure dolor inasfa reprehenderit in voluptate 
                                     velit esse cillum reeut cupidatatfug.</p>
-                                    <a href="#" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Explore services</a>
+                                    <a href="#" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Veja nossos serviços</a>
                                 </div>
                             </div>
                         </div>
                     </div>          
-                </div>
+                </div> -->
             </div>
         </section>
         <!-- slider Area End-->
         <!--? About 1 Start-->
-        <section class="about-low-area section-padding30">
+        <section class="about-low-area section-padding30" id="sobre">
             <div class="container">
                 <div class="row justify-content-between">
                     <div class="col-xl-6 col-lg-6 col-md-10">
                         <div class="about-caption mb-50">
                             <!-- Section Tittle -->
                             <div class="section-tittle mb-35">
-                                <h2>Hassle-Free Drone<br> Photography</h2>
+                                <h2>Sobre</h2>
                             </div>
                             <p class="about-cap-top">Inasfa reprehenderit in voluptate velit esse 
                             cillum reeut cupidatatfug nulla pariatur.</p>
                             <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse 
                                 cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas 
                             occaecat.</p>
-                            <a href="#" class="btn black-btn">Explore services</a>
+                            <a href="#" class="btn black-btn">Veja nossos serviços</a>
                         </div>
                     </div>
                     <div class="offset-xl-0 col-xl-6 offset-lg-0 col-lg-6 col-md-9 offset-md-1 offset-sm-1">
@@ -72,8 +71,18 @@
         </section>
         <!-- About  End-->
         <!--? services area start -->
-        <section class="services-section pb-padding fix">
+        <section class="services-section section-padding30" id="servicos">
             <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-xl-6 col-lg-6 col-md-10">
+                    <div class="about-caption mb-50">
+                        <!-- Section Tittle -->
+                        <div class="section-tittle mb-35">
+                            <h2>Serviços Oferecidos</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
                 <div class="custom-row">
                     <div class="services-active">
                      <div class="col-lg-4">
@@ -130,7 +139,7 @@
         <!-- Video icon -->
         <div class="video-icon" >
             <a class="popup-video btn-icon" href="https://www.youtube.com/watch?v=up68UAfH0d0"><i class="fas fa-play"></i></a>
-        </div>
+        </div>        
         <div class="container">
             <div class="video-contents">
                 <div class="row justify-content-between">
@@ -167,18 +176,20 @@
     </div>
     <!-- video_end -->
     <!--? Visit Our Tailor Start -->
-    <div class="visit-tailor-area fix">
-        <!--Right Contents  -->
-        <div class="tailor-offers"></div>
-        <!-- left Contents -->
-        <div class="tailor-details">
-            <h2>Recent projects</h2>
-            <p>Inasfa reprehenderit in voluptate velit esse 
-            cillum reeut cupidatatfug nulla pariatur.</p>
-            <p class="pera-bottom">Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas occaecat.</p>
+    <section class="services-section section-padding30" id="projetos">
+        <div class="visit-tailor-area fix">
+            <!--Right Contents  -->
+            <div class="tailor-offers"></div>
+            <!-- left Contents -->
+            <div class="tailor-details">
+                <h2>Recent projects</h2>
+                <p>Inasfa reprehenderit in voluptate velit esse 
+                cillum reeut cupidatatfug nulla pariatur.</p>
+                <p class="pera-bottom">Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas occaecat.</p>
+            </div>
         </div>
-    </div>
-    <!-- Visit Our Tailor End -->
+        <!-- Visit Our Tailor End -->
+    </section>
     <!--? services area start -->
     <section class="services-section services-section2 pb-padding  fix">
         <div class="container">
@@ -279,64 +290,66 @@
     </div>
 </section>
 <!--? Testimonial Area End -->
-<div class="contact-form">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-5">
-                <div class="form-wrapper">
-                    <div class="row ">
-                        <div class="col-xl-12 col-lg-11 col-md-8 col-lg-7 col-sm-9">
-                            <div class="section-tittle mb-30">
-                                <h2>Get a Quote</h2>
-                                <p>Inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+<section class="services-section section-padding30" id="contato">
+    <div class="contact-form">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5">
+                    <div class="form-wrapper">
+                        <div class="row ">
+                            <div class="col-xl-12 col-lg-11 col-md-8 col-lg-7 col-sm-9">
+                                <div class="section-tittle mb-30">
+                                    <h2>Entre em contato conosco</h2>
+                                    <p>Inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+                                </div>
                             </div>
                         </div>
+                        <form id="contact-form" action="#" method="POST">
+                            <div class="row">
+                                <div class="col-lg-12 col-md-6">
+                                    <div class="form-box user-icon mb-15">
+                                        <input type="text" name="nome" placeholder="Digite seu nome completo">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-md-6">
+                                    <div class="form-box email-icon mb-15">
+                                        <input type="text" name="email" placeholder="Seu melhor email">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-md-6">
+                                    <div class="form-box email-icon mb-15">
+                                        <input type="text" name="telefone" placeholder="Seu telefone">
+                                    </div>
+                                </div>
+                                <div class="col-lg-12 col-md-6 mb-15">
+                                    <div class="select-itms">
+                                        <select name="select" id="select2">
+                                            <option value="">Topic</option>
+                                            <option value="">Topic one</option>
+                                            <option value="">Topic Two</option>
+                                            <option value="">Topic Three</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="form-box message-icon mb-15">
+                                        <textarea name="message" id="message" placeholder="Escreva sua mensagem aqui"></textarea>
+                                    </div>
+                                    <div class="submit-info">
+                                        <button class="submit-btn2" type="submit">Enviar Mensagem</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form> 
                     </div>
-                    <form id="contact-form" action="#" method="POST">
-                        <div class="row">
-                            <div class="col-lg-12 col-md-6">
-                                <div class="form-box user-icon mb-15">
-                                    <input type="text" name="name" placeholder="Your Name">
-                                </div>
-                            </div>
-                            <div class="col-lg-12 col-md-6">
-                                <div class="form-box email-icon mb-15">
-                                    <input type="text" name="email" placeholder="Email">
-                                </div>
-                            </div>
-                            <div class="col-lg-12 col-md-6">
-                                <div class="form-box email-icon mb-15">
-                                    <input type="text" name="email" placeholder="Phone no.">
-                                </div>
-                            </div>
-                            <div class="col-lg-12 col-md-6 mb-15">
-                                <div class="select-itms">
-                                    <select name="select" id="select2">
-                                        <option value="">Topic</option>
-                                        <option value="">Topic one</option>
-                                        <option value="">Topic Two</option>
-                                        <option value="">Topic Three</option>
-                                    </select>
-                                </div>
-                            </div>
-                            <div class="col-lg-12">
-                                <div class="form-box message-icon mb-15">
-                                    <textarea name="message" id="message" placeholder="Message"></textarea>
-                                </div>
-                                <div class="submit-info">
-                                    <button class="submit-btn2" type="submit">Send Message</button>
-                                </div>
-                            </div>
-                        </div>
-                    </form> 
                 </div>
             </div>
         </div>
+        <div class="contact-img">
+            <img src="assets/img/gallery/contact-img.png" alt="">
+        </div>
     </div>
-    <div class="contact-img">
-        <img src="assets/img/gallery/contact-img.png" alt="">
-    </div>
-</div>
+</section>
 </main>
 <?php
     include_once("rodape.php");

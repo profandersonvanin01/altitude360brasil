@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="manifest" href="site.webmanifest">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon_altitude.ico">
 
     <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -24,6 +24,13 @@
     <link rel="stylesheet" href="assets/css/slick.css">
     <link rel="stylesheet" href="assets/css/nice-select.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/meuestilo.css">
+
+    <!-- Fontes do google fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Text+Me+One&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
@@ -59,9 +66,9 @@
                                         <nav>
                                             <ul id="navigation">
                                                 <li><a href="index.php">Inicio</a></li>
-                                                <li><a href="about.php">Sobre</a></li>
-                                                <li><a href="services.php">Serviços</a></li>
-                                                <li><a href="projects.php">Projetoss</a></li>
+                                                <li><a href="#sobre">Sobre</a></li>
+                                                <li><a href="#servicos">Serviços</a></li>
+                                                <li><a href="#projetos">Projetos</a></li>
                                                 <li><a href="#">Blog</a>
                                                     <ul class="submenu">
                                                         <li><a href="blog.php">Blog</a></li>
@@ -69,7 +76,7 @@
                                                         <li><a href="elements.php">Element</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.php">Contato</a></li>
+                                                <li><a href="#contato">Contato</a></li>
                                                 <!-- Header btn -->
                                                 <li>
                                                     <div class="header-right-btn ml-40">

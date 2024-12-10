@@ -1,0 +1,14 @@
+.fonte_logo {
+    font-family: "Text Me One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.slogan{
+    color: #f57eb6;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+ 

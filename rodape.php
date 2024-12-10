@@ -9,7 +9,7 @@
                                 <div class="single-footer-caption mb-30">
                                     <!-- logo -->
                                     <div class="footer-logo mb-35">
-                                        <a href="index.html"><img src="assets/img/logo/logo2_transp.png" alt=""></a>
+                                        <a href="index.php"><img src="assets/img/logo/logo2_transp.png" alt=""></a>
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
@@ -28,11 +28,11 @@
                                 <div class="footer-tittle">
                                     <h4>Navegação</h4>
                                     <ul>
-                                        <li><a href="#">Inicio</a></li>
-                                        <li><a href="#">Sobre</a></li>
-                                        <li><a href="#">Serviços</a></li>
+                                        <li><a href="#inicio">Inicio</a></li>
+                                        <li><a href="#sobre">Sobre</a></li>
+                                        <li><a href="#servicos">Serviços</a></li>
                                         <li><a href="#">Blog</a></li>
-                                        <li><a href="#">Contato</a></li>
+                                        <li><a href="#contato">Contato</a></li>
                                     </ul>
                                 </div>
                             </div>

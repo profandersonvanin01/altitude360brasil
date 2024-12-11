@@ -13,27 +13,12 @@
                                 <div class="hero__caption text-center">
                                     <h1 class="fonte_logo" data-animation="bounceIn" data-delay="0.2s">ALTITUDE360BRASIL</h1>
                                     <p style="color:#f57eb6;" data-animation="fadeInUp" data-delay="0.4s">DO ALTO, CONTAMOS A SUA HISTÓRIA COM ARTE E EMOÇÃO.</p>
-                                    <a href="#" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Veja nossos serviços</a>
+                                    <a href="#servicos" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Veja nossos serviços</a>
                                 </div>
                             </div>
                         </div>
                     </div>          
-                </div>
-                <!-- Single Slider -->
-                <!-- <div class="single-slider slider-bg1 hero-overly slider-height d-flex align-items-center">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-xl-8 col-lg-9 col-md-12">
-                                <div class="hero__caption text-center">
-                                    <h1 data-animation="bounceIn" data-delay="0.2s">Drone Photography<br> & Videography</h1>
-                                    <p data-animation="fadeInUp" data-delay="0.4s">Duis aute irure dolor inasfa reprehenderit in voluptate 
-                                    velit esse cillum reeut cupidatatfug.</p>
-                                    <a href="#" class="hero-btn" data-animation="fadeInUp" data-delay="0.7s">Veja nossos serviços</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>          
-                </div> -->
+                </div>                
             </div>
         </section>
         <!-- slider Area End-->
@@ -50,13 +35,7 @@
                             <p>Na Altitude360Brasil, acreditamos que cada história merece ser contada de forma única e especial. Somos um empreendimento que está dando seus primeiros voos no mercado de fotografias e filmagens aéreas, movidos por paixão, criatividade e o compromisso de eternizar momentos sob uma perspectiva que só do alto pode-se oferecer.</p>
                             <p>Sabemos que começar é um desafio, mas também acreditamos que toda grande jornada começa com um passo – ou no nosso caso, um voo. Nosso objetivo é entregar a você imagens que combinam arte e emoção, capturadas com precisão por equipamentos de ponta e guiadas por um olhar dedicado aos detalhes. Seja para eternizar momentos inesquecíveis como casamentos e aniversários, valorizar imóveis, ou destacar aventuras e eventos esportivos, estamos prontos para levar sua visão às alturas. Contratar nossos serviços é mais do que garantir imagens incríveis – é apoiar um sonho que nasceu para trazer beleza e inovação ao seu mundo.</p>
                             <p>Venha fazer parte da nossa história e permita que a Altitude360Brasil transforme suas memórias em verdadeiras obras de arte!</p>
-
-
-
-
-
-
-                            <a href="#" class="btn black-btn">Veja nossos serviços</a>
+                            <a href="#servicos" class="btn black-btn">Veja nossos serviços</a>
                         </div>
                     </div>
                     <div class="offset-xl-0 col-xl-6 offset-lg-0 col-lg-6 col-md-9 offset-md-1 offset-sm-1">
@@ -83,53 +62,73 @@
                         <!-- Section Tittle -->
                         <div class="section-tittle mb-35">
                             <h2>Serviços Oferecidos</h2>
+                            
                         </div>
                     </div>
                 </div>
+                <div class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-xl-12 col-lg-12 col-md-12">
+                            <p>Nosso compromisso é transformar o que você imagina em uma experiência visual emocionante e inesquecível.</p>
+                        </div>
+                    </div>
+                </div>
+                
             </div>
                 <div class="custom-row">
                     <div class="services-active">
                      <div class="col-lg-4">
                         <div class="single-cat">
                             <div class="cat-icon">
-                                <img src="assets/img/gallery/services1.png" alt="">
+                                <img src="assets/img/gallery/eventos.png" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Residential Real Estate Photography</a></h5>
-                                <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+                                <h5><a href="services.html">Eventos</a></h5>
+                                <p>De casamentos emocionantes a aniversários cheios de alegria, formaturas inesquecíveis e celebrações diversas, capturamos os momentos mais especiais da sua vida com um toque artístico e emocional. Utilizando drones de alta tecnologia, registramos ângulos únicos, criando imagens e vídeos que eternizam cada detalhe do seu grande dia. Nossa equipe está pronta para entender a sua visão e transformá-la em memórias inesquecíveis.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="single-cat">
                             <div class="cat-icon">
-                                <img src="assets/img/gallery/services2.png" alt="">
+                                <img src="assets/img/gallery/aventura.png" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Commercial Real Estate Photography</a></h5>
-                                <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+                                <h5><a href="services.html">Aventuras</a></h5>
+                                <p>Seja escalando montanhas, enfrentando corredeiras ou explorando trilhas em meio à natureza, estamos ao seu lado para capturar cada momento de adrenalina e beleza. Nossos drones são ideais para registrar a grandiosidade de esportes radicais, paisagens naturais e viagens marcantes. Transformamos aventuras em imagens que transmitem a emoção e a grandiosidade de cada experiência.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="single-cat">
                             <div class="cat-icon">
-                                <img src="assets/img/gallery/services3.png" alt="">
+                                <img src="assets/img/gallery/imoveis.png" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Construction Site Monitoring</a></h5>
-                                <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+                                <h5><a href="services.html">Imóveis</a></h5>
+                                <p>Valorizamos propriedades como elas merecem! Produzimos vídeos profissionais que destacam os melhores ângulos de imóveis residenciais e comerciais, criando um impacto visual que atrai potenciais compradores ou locatários. Com foco em detalhes arquitetônicos e paisagísticos, nossos serviços ajudam a apresentar imóveis de forma impressionante, ideal para corretores e construtoras.</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="single-cat">
                             <div class="cat-icon">
-                                <img src="assets/img/gallery/services2.png" alt="">
+                                <img src="assets/img/gallery/comercial.png" alt="">
                             </div>
                             <div class="cat-cap">
-                                <h5><a href="services.html">Commercial Real Estate Photography</a></h5>
-                                <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+                                <h5><a href="services.html">Conteúdo Comercial</a></h5>
+                                <p>Quer destacar sua marca ou lançar uma campanha publicitária? Criamos materiais visuais impactantes que comunicam a essência do seu negócio. Desde vídeos promocionais até conteúdo institucional, garantimos uma produção de qualidade que reforça a identidade da sua empresa e atrai novos clientes.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4">
+                        <div class="single-cat">
+                            <div class="cat-icon">
+                                <img src="assets/img/gallery/pessoal.png" alt="">
+                            </div>
+                            <div class="cat-cap">
+                                <h5><a href="services.html">Pacotes Personalizados</a></h5>
+                                <p>Entendemos que cada projeto é único. Por isso, oferecemos pacotes ajustados às suas necessidades e ao seu orçamento. Seja para um projeto individual ou para demandas contínuas, estamos prontos para trabalhar lado a lado com você e criar um serviço sob medida, garantindo sua total satisfação. Com a Altitude360Brasil, cada serviço é pensado para oferecer uma experiência única, unindo tecnologia de ponta, criatividade e paixão pelo que fazemos!</p>
                             </div>
                         </div>
                     </div>
@@ -149,28 +148,27 @@
                 <div class="row justify-content-between">
                     <div class="col-xl-5 col-lg-5 col-md-10">
                         <div class="section-tittle  mb-90">
-                            <h2>How we work?</h2>
-                            <p class="tittle-pera1">Inasfa reprehenderit in voluptate velit esse  cillum reeut cupidatatfug nulla pariatur.</p>
-                            <p>Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas occaecat.</p>
-                            <a href="#" class="btn black-btn">Start a Project</a>
+                            <h2>Como trabalhamos?</h2>
+                            <p class="tittle-pera1">Na Altitude360Brasil, nosso objetivo é tornar o processo simples, eficiente e totalmente focado nas suas necessidades. Vamos explicar como transformamos suas ideias em imagens incríveis:</p>
+                            <a href="#" class="btn black-btn">Inicie um projeto</a>
                         </div>
                     </div>
                     <div class="col-xl-5 col-lg-6 col-md-8">
                         <div class="edu-details">
                             <!-- single-item -->
                             <div class="single-items mb-50">
-                                <span>Tell Us About Your Project</span>
-                                <p>Aute irure dolor inasfa prehenderit  in voluptate velit esse cillum.</p>
+                                <span>Conte-nos sobre seu projeto</span>
+                                <p>Tudo começa com você! Compartilhe sua visão, ideia ou necessidade conosco. Seja um evento especial, um projeto comercial ou uma aventura emocionante, estamos prontos para entender o que você precisa e como podemos ajudar. Juntos, alinhamos expectativas e traçamos o plano ideal para alcançar resultados surpreendentes.</p>
                             </div>
                             <!-- single-item -->
                             <div class="single-items single-items2 mb-50">
-                                <span>We'll Schedule a Flight</span>
-                                <p>Aute irure dolor inasfa prehenderit in voluptate velit esse cillum.</p>
+                                <span>Confira nossos planos</span>
+                                <p>Oferecemos uma variedade de planos para atender diferentes projetos e orçamentos. Desde opções econômicas até pacotes mais completos, você encontrará uma solução personalizada para suas demandas. Nossos pacotes incluem serviços detalhados, prazos claros e valores transparentes, sempre com a qualidade que você merece.</p>
                             </div>
                             <!-- single-item -->
                             <div class="single-items single-items3 mb-50">
-                                <span>We'll Schedule a Flight</span>
-                                <p>Aute irure dolor inasfa prehenderit in voluptate velit esse cillum.</p>
+                                <span>Agende um voo</span>
+                                <p>Com o plano escolhido, é hora de colocar sua ideia no ar – literalmente! Agende um voo conosco na data e horário mais convenientes para você. Nossa equipe cuidará de todos os detalhes técnicos e de segurança para garantir um resultado impecável. Estamos prontos para transformar suas ideias em imagens inesquecíveis. Na Altitude360Brasil, cada etapa é pensada para tornar sua experiência leve e satisfatória, do planejamento ao produto final.</p>
                             </div>
                         </div>
                     </div>
@@ -196,9 +194,7 @@
                     </div>
                 </div>
             </div>                
-                <p>Inasfa reprehenderit in voluptate velit esse 
-                cillum reeut cupidatatfug nulla pariatur.</p>
-                <p class="pera-bottom">Aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur. Excepteur sintxsdfas occaecat.</p>
+                <p>Na Altitude360Brasil, cada novo projeto é uma oportunidade de contar histórias únicas e inesquecíveis. Trabalhamos lado a lado com nossos clientes para capturar imagens que emocionam, inspiram e valorizam cada momento. </p>                
             </div>
         </div>
         <!-- Visit Our Tailor End -->
@@ -214,17 +210,17 @@
                             <img src="assets/img/gallery/services4.png" alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Drone Inspection team from Terra Drone</a></h5>
+                            <h5><a href="services.html">Equipe de Inspeção de Drones</a></h5>
                         </div>
                     </div>
-                </div>
+                </div>                
                 <div class="col-lg-4">
                     <div class="single-cat">
                         <div class="cat-icon">
                             <img src="assets/img/gallery/services5.png" alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Commercial Real Estate Photography</a></h5>
+                            <h5><a href="services.html">Monitoramento de canteiro de obras</a></h5>
                         </div>
                     </div>
                 </div>
@@ -234,7 +230,7 @@
                             <img src="assets/img/gallery/services6.png" alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Construction Site Monitoring</a></h5>
+                            <h5><a href="services.html">Fotografia de imóveis comerciais</a></h5>
                         </div>
                     </div>
                 </div>
@@ -244,7 +240,7 @@
                             <img src="assets/img/gallery/services5.png" alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Commercial Real Estate Photography</a></h5>
+                            <h5><a href="services.html">Monitoramento de canteiro de obras</a></h5>
                         </div>
                     </div>
                 </div>
@@ -265,7 +261,7 @@
                         <div class="single-testimonial position-relative">
                             <div class="testimonial-caption">
                                 <img src="assets/img/icon/quotes-sign.png" alt="" class="quotes-sign">
-                                <p>"The automated process starts as soon as your clothe go into the machine. This site outcome is gleaming clothe. Placeholder text commonly used. In publishing and graphic.</p>
+                                <p>"Sou amante de trilhas e aventuras, e ter meus momentos capturados de cima foi indescritível. As imagens não só mostram a paisagem, mas também transmitem toda a adrenalina da experiência."</p>
                             </div>
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center">
@@ -273,8 +269,8 @@
                                     <img src="assets/img/icon/testimonial.png" alt="">
                                 </div>
                                 <div class="founder-text">
-                                    <span>Robart Brown</span>
-                                    <p>Creative designer at Colorlib</p>
+                                    <span>Thiago M. </span>
+                                    <p>São Paulo/SP</p>
                                 </div>
                             </div>
                         </div>
@@ -282,16 +278,16 @@
                         <div class="single-testimonial position-relative">
                             <div class="testimonial-caption">
                                 <img src="assets/img/icon/quotes-sign.png" alt="" class="quotes-sign">
-                                <p>"The automated process starts as soon as your clothe go into the machine. This site outcome is gleaming clothe. Placeholder text commonly used. In publishing and graphic.</p>
+                                <p>"Com a ajuda da Altitude360, conseguimos apresentar nossas propriedades de uma forma inovadora e impactante. Os vídeos aéreos melhoraram significativamente nossas vendas, conquistando novos clientes com imagens incríveis."</p>
                             </div>
                             <!-- founder -->
                             <div class="testimonial-founder d-flex align-items-center">
                                 <div class="founder-img">
-                                    <img src="assets/img/icon/testimonial.png" alt="">
+                                    <img src="assets/img/icon/testimonial2.png" alt="">
                                 </div>
                                 <div class="founder-text">
-                                    <span>Robart Brown</span>
-                                    <p>Creative designer at Colorlib</p>
+                                    <span>Renata S.</span>
+                                    <p>Rio de Janeiro/RJ</p>
                                 </div>
                             </div>
                         </div>
@@ -303,6 +299,7 @@
     </div>
 </section>
 <!--? Testimonial Area End -->
+
 <section class="services-section section-padding30" id="contato">
     <div class="contact-form">
         <div class="container">
@@ -313,7 +310,7 @@
                             <div class="col-xl-12 col-lg-11 col-md-8 col-lg-7 col-sm-9">
                                 <div class="section-tittle mb-30">
                                     <h2>Entre em contato conosco</h2>
-                                    <p>Inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug nulla pariatur.</p>
+                                    <p>Na Altitude360Brasil, estamos sempre prontos para ouvir você! Seja para tirar dúvidas, discutir ideias ou planejar o seu próximo projeto, nossa equipe está à disposição para oferecer atendimento personalizado e eficiente.</p>
                                 </div>
                             </div>
                         </div>
@@ -333,17 +330,7 @@
                                     <div class="form-box email-icon mb-15">
                                         <input type="text" name="telefone" placeholder="Seu telefone">
                                     </div>
-                                </div>
-                                <div class="col-lg-12 col-md-6 mb-15">
-                                    <div class="select-itms">
-                                        <select name="select" id="select2">
-                                            <option value="">Topic</option>
-                                            <option value="">Topic one</option>
-                                            <option value="">Topic Two</option>
-                                            <option value="">Topic Three</option>
-                                        </select>
-                                    </div>
-                                </div>
+                                </div>                                
                                 <div class="col-lg-12">
                                     <div class="form-box message-icon mb-15">
                                         <textarea name="message" id="message" placeholder="Escreva sua mensagem aqui"></textarea>
@@ -376,6 +363,8 @@
 
 <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
 <!-- Jquery, Popper, Bootstrap -->
+<!-- <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script> -->
 <script src="./assets/js/vendor/jquery-1.12.4.min.js"></script>
 <script src="./assets/js/popper.min.js"></script>
 <script src="./assets/js/bootstrap.min.js"></script>

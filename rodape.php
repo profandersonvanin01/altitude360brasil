@@ -13,7 +13,7 @@
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p>Duis aute irure dolor inasfa reprehenderit in voluptate velit esse cillum reeut cupidatatfug.</p>
+                                            <p>Conte-nos o que você precisa, e juntos faremos seus projetos decolarem. Entre em contato agora e descubra como podemos transformar suas ideias em imagens inesquecíveis!</p>
                                         </div>
                                         <ul class="mb-40">
                                             <li class="number"><a href="#">(11) 99591-8430</a></li>
@@ -31,7 +31,6 @@
                                         <li><a href="#inicio">Inicio</a></li>
                                         <li><a href="#sobre">Sobre</a></li>
                                         <li><a href="#servicos">Serviços</a></li>
-                                        <li><a href="#">Blog</a></li>
                                         <li><a href="#contato">Contato</a></li>
                                     </ul>
                                 </div>
